@@ -12,8 +12,6 @@
 3. 运行脚本生成图片
 
 ### 效果展示
-
 ![before](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/before.jpg)
-
 ![after](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/after.jpg)
 
