@@ -13,7 +13,7 @@
 
 ### 效果展示
 
-![before](\PS-Your-Circle-Screenshot\before.jpg)
+![before](before.jpg)
 
-![after](\PS-Your-Circle-Screenshot\after.jpg)
+![after](after.jpg)
 
