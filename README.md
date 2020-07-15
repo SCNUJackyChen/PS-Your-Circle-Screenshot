@@ -13,5 +13,5 @@
 
 ### 效果展示
 ![before](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/before.jpg)
-![after](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/after.jpg)
+![after](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/after.png)
 
