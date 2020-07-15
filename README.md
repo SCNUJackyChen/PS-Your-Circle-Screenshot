@@ -13,7 +13,7 @@
 
 ### 效果展示
 
-![before](before.jpg)
+![before](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/before.jpg)
 
-![after](after.jpg)
+![after](https://github.com/SCNUJackyChen/PS-Your-Circle-Screenshot/raw/master/after.jpg)
 
