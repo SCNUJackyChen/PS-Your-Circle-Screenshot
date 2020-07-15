@@ -12,3 +12,8 @@
 3. 运行脚本生成图片
 
 ### 效果展示
+
+![before](\PS-Your-Circle-Screenshot\before.jpg)
+
+![after](\PS-Your-Circle-Screenshot\after.jpg)
+
